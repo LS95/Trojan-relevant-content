@@ -1,0 +1,3 @@
+﻿  MyMain.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1202,5): warning MSB8030: 链接器开关“所需的最低版本”需要设置“子系统”。   在没有“子系统”的情况下，“所需的最低版本”将无法传递到链接器，并且会阻止在旧版操作系统上运行输出二进制文件。
+  WM_DEVICECHANGE_Test.vcxproj -> E:\电子书相关资料\《Windows黑客编程技术详解》\WINDOWS黑客编程技术详解-配套代码\用户层\11\U盘监控\WM_DEVICECHANGE_Test\Debug\WM_DEVICECHANGE_Test.exe
